@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
           children: <Widget>[
             ListTile(
               title: Text("Easy Explanation"),
-              subtitle: Text("Lear everything with easy explanation"),
+              subtitle: Text("Learn everything with easy explanation"),
               leading: CircleAvatar(
                 child: Icon(Icons.message),
 
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
             ),
             ListTile(
               title: Text("Easy Explanation"),
-              subtitle: Text("Lear everything with easy explanation"),
+              subtitle: Text("Learn everything with easy explanation"),
               leading: CircleAvatar(
                 child: Icon(Icons.message),
 
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
             ),
             ListTile(
               title: Text("Easy Explanation"),
-              subtitle: Text("Lear everything with easy explanation"),
+              subtitle: Text("Learn everything with easy explanation"),
               leading: CircleAvatar(
                 child: Icon(Icons.message),
 
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
             ),
             ListTile(
               title: Text("Easy Explanation"),
-              subtitle: Text("Lear everything with easy explanation"),
+              subtitle: Text("Learn everything with easy explanation"),
               leading: CircleAvatar(
                 child: Icon(Icons.message),
 
@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
             ),
             ListTile(
               title: Text("Easy Explanation"),
-              subtitle: Text("Lear everything with easy explanation"),
+              subtitle: Text("Learn everything with easy explanation"),
               leading: CircleAvatar(
                 child: Icon(Icons.message),
 
@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
             ),
             ListTile(
               title: Text("Easy Explanation"),
-              subtitle: Text("Lear everything with easy explanation"),
+              subtitle: Text("Learn everything with easy explanation"),
               leading: CircleAvatar(
                 child: Icon(Icons.message),
 
